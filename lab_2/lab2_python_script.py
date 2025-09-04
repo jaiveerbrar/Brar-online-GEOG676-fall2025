@@ -1,2 +1,0 @@
-#first question
-part1 = 
